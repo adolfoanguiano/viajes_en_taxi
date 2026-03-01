@@ -2,7 +2,7 @@
 
 **Zuber** es una compañia de viajes compartidos en taxi en la ciudad de Chicago, Estados Unidos.
 
-Por petición de la empresa, con los datos recabados en sus viajes, se solicitó realizar un análisis con la finalidad de encontrar patrones de los viajes, usuarios, permitiendo comprender las preferencias de los usuarios y si hay factores externos que impacten en los viajes.
+Por petición de la empresa, con los datos recabados en sus viajes, se solicitó realizar un análisis con la finalidad de encontrar patrones tanto en los viajes como en los usuarios del servicio, permitiendo comprender las preferencias y si los factores externos que impacten en los viajes.
 
 Al final se planteo la hipótesis para saber en específico si "La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos".
 
